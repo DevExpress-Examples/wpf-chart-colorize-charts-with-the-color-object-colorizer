@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/ColorObjectColorizerExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ColorObjectColorizerExample/MainWindow.xaml))
+<!-- default file list end -->
 # How to colorize charts using the Color Object Colorizer
 
 
