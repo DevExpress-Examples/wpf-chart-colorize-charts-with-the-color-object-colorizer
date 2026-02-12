@@ -21,7 +21,7 @@ To use the Color Object Colorizer, create a [ColorObjectColorizer](https://docs.
 * [How to: Colorize Charts Using the Range Colorizer](https://docs.devexpress.com/WPF/114066/controls-and-libraries/charts-suite/chart-control/examples/providing-data/how-to-colorize-charts-using-the-range-colorizer)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-chart-colorize-charts-with-the-color-object-colorizer&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-chart-colorize-charts-with-the-color-object-colorizer&~~~was_helpful=no)
 
